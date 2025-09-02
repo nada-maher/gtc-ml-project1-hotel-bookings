@@ -106,4 +106,4 @@ Author
 
 Nada Maher Mohamed Elhady
 Email: mahernada562@gmail.com
-LinkedIn: [[Your LinkedIn URL]](https://www.linkedin.com/in/nada-maher-9b7327285/)
+LinkedIn: https://www.linkedin.com/in/nada-maher-9b7327285/
